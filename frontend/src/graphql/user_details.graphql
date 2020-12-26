@@ -1,0 +1,6 @@
+query user_details {
+	user {
+		id
+		email
+	}
+}

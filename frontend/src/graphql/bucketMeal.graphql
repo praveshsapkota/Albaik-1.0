@@ -1,0 +1,9 @@
+query BucketMeal {
+	Bucket {
+		name
+		price
+		star
+		id
+		vegan
+	}
+}

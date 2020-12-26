@@ -1,0 +1,9 @@
+query BoxMeal {
+	BoxMeal {
+		name
+		price
+		star
+		id
+		vegan
+	}
+}

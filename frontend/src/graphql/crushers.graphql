@@ -1,0 +1,8 @@
+query Crushers {
+	Crushers {
+		id
+		name
+		price
+		star
+	}
+}

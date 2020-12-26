@@ -1,0 +1,8 @@
+query Mojito {
+	Mojito {
+		id
+		name
+		price
+		star
+	}
+}

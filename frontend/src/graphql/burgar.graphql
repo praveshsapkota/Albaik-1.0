@@ -1,0 +1,9 @@
+query Burgar {
+	Burger {
+		id
+		name
+		price
+		star
+		vegan
+	}
+}

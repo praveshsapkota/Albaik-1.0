@@ -1,0 +1,8 @@
+query Fried {
+	Fried {
+		name
+		price
+		star
+		id
+	}
+}
